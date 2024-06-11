@@ -19,6 +19,7 @@ You are more than welcome to use the data for your research if it is useful. If 
       publisher={Springer}
     }
 
+ #
       @article{zhou2024cooperative,
       title={Cooperative Distributed Predictive Control for Smart Injection Molding Systems With One-Tap Memory},
       author={Zhou, Yuanqiang and Hu, Huanjia and Ding, Weilong and Gao, Kaihua and Li, Dewei and Gao, Furong},
