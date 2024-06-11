@@ -6,7 +6,7 @@ The data can be used for modeling, control, fault detection, data analysis, and 
 Please cite our following papers when using this data. 
 
 ### Citation
-You are more than welcome to use the data for your research if it is useful. If you use the code, please cite the following papers:
+You are more than welcome to use the data for your research if it is useful. If you use the data, please cite the following papers:
 
     @article{zhou2022objectives,
       title={Objectives, challenges, and prospects of batch processes: Arising from injection molding applications},
